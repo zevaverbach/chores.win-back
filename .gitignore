@@ -1,0 +1,6 @@
+tags
+__pycache__
+*.swo
+*.swp
+venv/
+.env
